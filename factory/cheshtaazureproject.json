@@ -1,0 +1,9 @@
+{
+	"name": "cheshtaazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f28fe7c7-4ba0-4840-bf80-7eb4557452c4",
+		"tenantId": "4d9cbef8-2d49-4c8b-8d01-ad0d8a4aa8e6"
+	}
+}
